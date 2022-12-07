@@ -41,4 +41,4 @@ async def on_message(message):
 
 
 # Run the Discord client
-client.run("MTA0OTkzMjk3MTg3MzkyNzE4OA.G4aRjq.q-HXATnEHYBy00Lw8efSdYGazw-dXMBWaVdvio")
+client.run("MTA0OTkzMjk3MTg3MzkyNzE4OA.GyZgaV.cspoZ_UaQO1EfB_Y79jlLyQBuwFGw5tgO8lWYo")
